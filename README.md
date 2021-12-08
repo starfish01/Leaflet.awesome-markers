@@ -1,3 +1,9 @@
+# Leaflet.awesome-markers Fork Changes
+- Only supports ion-icon atm
+- Removed prefix for now
+- Only supports ionicons https://ionic.io/ionicons
+
+
 # Leaflet.awesome-markers plugin v2.0
 Colorful iconic & retina-proof markers for Leaflet, based on the Glyphicons / Font-Awesome icons
 
